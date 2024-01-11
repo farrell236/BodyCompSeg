@@ -1,14 +1,14 @@
 # Muscle, Subcutaneous and Visceral Fat Segmentation 
 
-Code Repository for [Enhanced Muscle and Fat Segmentation for CT-Based Body Composition Analysis: A Comparative Study]().
+Code Repository for [Enhanced Muscle and Fat Segmentation for CT-Based Body Composition Analysis: A Comparative Study](https://arxiv.org/abs/2401.05294).
 
 <p align="center">
   &nbsp;&nbsp;
-  <img src="assets/gt_case042_axial_40.png" alt="Axial View" height="140"/>
+  <img src="assets/gt_case042_axial_40.png" alt="Axial View" height="160"/>
   &nbsp;&nbsp;
-  <img src="assets/gt_case042_coronal_255.png" alt="Coronal View" height="140"/>
+  <img src="assets/gt_case042_coronal_255.png" alt="Coronal View" height="160"/>
   &nbsp;&nbsp;
-  <img src="assets/gt_case042_sagittal_256.png" alt="Sagittal View" height="140"/>
+  <img src="assets/gt_case042_sagittal_256.png" alt="Sagittal View" height="160"/>
   &nbsp;&nbsp;
 </p>
 
@@ -27,7 +27,7 @@ Series `case_042` obtained from [SAROS dataset](https://github.com/UMEssen/saros
 ## Cite this work
 
 ```
-@article{DBLP:journals/corr/submit/5340591,
+@article{DBLP:journals/corr/abs-2401-05294,
   author       = {Benjamin Hou and
                   Tejas Sudharshan Mathai and
                   Jianfei Liu and
@@ -35,7 +35,7 @@ Series `case_042` obtained from [SAROS dataset](https://github.com/UMEssen/saros
                   Ronald M. Summers},
   title        = {Enhanced Muscle and Fat Segmentation for CT-Based Body Composition Analysis: A Comparative Study},
   journal      = {CoRR},
-  volume       = {submit/5340591},
+  volume       = {abs/2401.05294},
   year         = {2024}
 }
 ```
